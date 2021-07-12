@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Il mito di Diana e Atteone</title>
+				<author>Publio Ovidio Nasone</author>
+				<respStmt>
+					<resp>Marcatura</resp>
+					<name xml:id="JGF">Jacqueline Giada Fontanarosa</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Biblioteca Italiana</publisher>
+      			<pubPlace>Roma</pubPlace>
+      			<date>2003</date>
+    		    <idno>bibit000744</idno>
+    		    <contributor>Anguillara, Giovanni Andrea dell'</contributor>
+				<availability>
+        			<p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato</p>
+      			</availability>
+			</publicationStmt>
+			<seriesStmt>
+      			<title>Collezione BibIt</title>
+  		    </seriesStmt>
+			<sourceDesc>
+				<bibl>
+			        <title>Il mito di Diana e Atteone</title>
+			        <title type="part">Le Metamorfosi, Libro III</title>
+			        <p>Porzione del libro III de "Le Metamorfosi", versi 138-259</p>
+			        <author>Publio Ovidio Nasone</author>
+			        <publisher>Biblioteca Italiana</publisher>
+			        <pubPlace>Roma</pubPlace>
+			        <date>2003</date>
+			    </bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p xml:lang="it">
+				<lg>
+					<l n="138">Un caso strano al misero intervenne,</l>
+					<l n="139">Il maggior infortunio non fu mai,</l>
+					<l n="140">E di quanti parlar l’antiche penne,</l>
+					<l n="141">Tutti gli altri avanzò questo d’assai.</l>
+					<l n="142">Da lui <name type="persona" resp="#JGF">Diana</name> offesa un dì si tenne,</l>
+					<l n="143">Ma non l’offese, e tu <name type="cosa personificata" resp="#JGF">Fortuna</name> <choice resp="JGF"><orig>il</orig><reg>lo</reg></choice> sai,</l>
+					<l n="144">E se ben <rs type="persona" resp="#JGF">quel meschin</rs> <name type="persona" resp="#JGF">Diana</name> incolpa,</l>
+					<l n="145">Tu sai pur, che fu tua tutta la colpa.</l>
+				</lg>
+				<lg>
+					<l n="146">Io scuso in parte la silvestre <rs type="persona" resp="#JGF">Dea</rs>,</l>
+					<l n="147">C’hebbe а pensar di tempo poco <choice resp="#JGF"><orig>spatio</orig><reg>spazio</reg></choice>></l>
+					<l n="148">De la pena, ch’а lui donar <choice resp="#JGF"><orig>dovea</orig><reg>doveva</reg></choice>,</l>
+					<l n="149">Che non <choice resp="#JGF"><orig>havria</orig><reg>avrebbe</reg></choice> sofferto <choice resp="#JGF"><orig>sì</orig><reg>così</reg></choice> gran <choice resp="#JGF"><orig>stratio</orig><reg>strazio</reg></choice>,</l>
+					<l n="150">Ch’ogni vil can, che <rs type="persona">l’infelice</rs> <choice resp="#JGF"><orig>havea</orig><reg>aveva</reg></choice>,</l>
+					<l n="151">S’<choice resp="#JGF"><orig>havesse</orig><reg>avesse</reg></choice> а far de l’<choice resp="#JGF"><orig>heril</orig><reg>padronale</reg></choice> sangue <choice resp="#JGF"><orig>satio</orig><reg>sazio</reg></choice>.</l>
+					<l n="152">Ben <choice resp="#JGF"><orig>saria</orig><reg>sarebbe</reg></choice> stata di <choice resp="#JGF"><orig>pietade</orig><reg>pietà</reg></choice> ignuda,</l>
+					<l n="153">Se fosse stata in lei voglia <choice resp="#JGF"><orig>sì</orig><reg>così</reg></choice> cruda.</l>
+				</lg>
+				<lg>
+					<l n="154">Questo infelice (ch’era <name type="persona" resp="#JGF">Atteon</name> detto)</l>
+					<l n="155">Soleva а caccia andar quasi ogni giorno,</l>
+					<l n="156">Ne si <choice resp="#JGF"><orig>togliea</orig><reg>toglieva</reg></choice> talhor da tal diletto,</l>
+					<l n="157">Se ’l ciel <choice resp="#JGF"><orig>pria</orig><reg>prima</reg></choice> non <choice resp="#JGF"><orig>vedea</orig><reg>vedeva</reg></choice> di stelle adorno.</l>
+					<l n="158">Un dì, che’l bosco <choice resp="#JGF"><orig>havea</orig><reg>aveva</reg></choice> di sangue infetto</l>
+					<l n="159">Di belve senza fin, non <choice resp="#JGF"><orig>fe</orig><reg>fece</reg></choice> soggiorno</l>
+					<l n="160">Fin che ’l sol s’attuffasse а star con Teti,</l>
+					<l n="161">Ma <choice resp="#JGF"><orig>fe</orig><reg>fece</reg></choice> più tosto assai <choice resp="#JGF"><orig>raccor</orig><reg>raccogliere</reg></choice> le reti.</l>
+				</lg>
+
+				Già nel cielo era il Sol cresciuto tanto,
+				Che discopriva il declinar del monte,
+				E da l’occaso era discosto quanto
+				Gli era lontano il contrario orizonte.
+				Teneano l’ombre de le cose intanto
+				Tutte al Settentrion volta la fronte,
+				Quand’ei levò da quei cocenti ardori
+				Gli affaticati cani, e i cacciatori.
+
+				Ben’è stato il diletto hoggi compito,
+				Ben’hoggi havuto il fato habbiam secondo,
+				Che veggio il sangue in favor nostro uscito,
+				А tutto il bosco haver macchiato il fondo,
+				Già fra Favonio, et Euro compartito
+				Ha con ugual distantia Apollo il mondo,
+				(Disse) e fia bene homai ritrarre i passi,
+				E ricreare i corpi afflitti, e lassi.
+
+				Tosto i nodosi, e insanguinati lini
+				Da i pali si disciolgano bicorni,
+				Poscia ov’ han più grat’ ombra i faggi, e i pini
+				Ciascun prenda riposo, e si soggiorni:
+				Come di perle adorna, e di rubini
+				La desiata Aurora а noi ritorni,
+				E faccia а pien del novo giorno fede,
+				Tenteremo altre caccie, et altre prede. 
+
+				Ò sfortunato giovane, che fai ?
+				Ch’al riposo de i can tanto riguardi?
+				Perche quest’otio, e quiete lor dai?
+				Perche possan seguirti più gagliardi? 
+				Ò misero infelice, perche stai?
+				Che non cacci anchor hoggi insino al tardi?
+				Se in questi boschi hai già spenta ogni fera,
+				Che non cerchi altre caccie insino а sera?
+
+				Già desioso ogn’un de la quiete
+				Fa quanto egli far dee per riposarsi,
+				Chi sotto un faggio, e chi sotto un’ abete,
+				Non lungi l’un da l’altro erano sparsi.
+				Altri guarda la preda, altri la rete,
+				I can si veggon rispirando starsi,
+				Col penoso essalar, con lordo morso
+				Mostran quanto hanno il di pugnato, e corso.
+
+				Vicino al loco, ove а prender riposo
+				Gli afflitti caciator s’erano messi,
+				V’era una valle amena, e un bosco ombroso
+				Di molto antichi pini, e di cipressi,
+				Dove era un’ antro assai remoto, e ascoso,
+				Ignoto insino à paesani stessi,
+				Sola il sapea la cacciatrice Dea,
+				Ch’ivi il caldo del dì fuggir solea.
+
+				Detta Gargafia è quella nobil parte,
+				Di cui tenea la Dea silvestre cura,
+				Non è la grotta fabricata ad arte
+				Ma ben l’arte imitato ha la natura.
+				Un nativo arco quell’antro comparte,
+				Ch’in mezzo è posto а le native mura,
+				Tutta d’un fragil tufo è la caverna.
+				La fronte, i lati, e anchor la volta interna.
+
+				Goccia per tutto intorno la spelonca,
+				E un chiaro fonte fa dal destro lato,
+				Dove più basso а guisa d’una conca,
+				La natura quel tufo havea cavato.
+				Forma la goccia il tondo, e poi si tronca.
+				Ne stillamento v’è continovato,
+				Ma per più gocce sparse un ruscel cresce,
+				Ch’empie quel vaso, e poi trabocca, e n’esce.
+
+				De l’antro il ciel, che natura compose
+				Da le gocce, e dal gel diviso, e rotto
+				V’ha mille varie forme, e capricciose,
+				Ch’esser mostran d’artefice ben dotto.
+				Tronchi ovati, e piramidi spugnose
+				Vi pendon, ch’al gocciar fanno acquedotto.
+				Compartimento ha tal, che lo scarpello
+				Nol potria far più vago, ne piu bello.
+
+				Qui star solea la Dea silvana spesso
+				Per fuggir il calor del mezzo giorno,
+				Dove giunta hora, e le compagne appresso
+				L’arco in man d’una diede, i dardi, e ’l corno.
+				L’aureo sparso suo crin sottile, e spesso
+				Raccoglie un’altra, e poi l’avolge intorno,
+				Poi glie lo lega in capo in un bel modo
+				Con un leggiadro, e maestrevol nodo.
+
+				Chi le slaccia i coturni, e scopre il piede,
+				Altra le spoglia la succinta veste,
+				E l’una а l’altra in ben servir non cede,
+				Ma stanno pronte, vigilanti, e preste.
+				Come la Dea spogliata esser si vede,
+				Non vuol, ch’alcuna fuor vestita reste,
+				E ignude se n’entrar (come à lei piacque)
+				Ne le dolci, tranquille, e lucid’acque.
+
+				Mentre si stan le Ninfe ivi adunate,
+				Senza sospetto alcun liete, e sicure,
+				E si lavan le membra delicate
+				Ne le dolci acque, cristalline, e pure,
+				E con parole accorte, honeste, e grate
+				Passan quell’hore sì noiose, e dure,
+				Atteon, ch’ а diporto iva soletto,
+				Venne а caso in quest’antro à dar di petto.
+
+				Si come piacque а l’empio suo destino,
+				S’era à compagni l’infelice tolto,
+				Ch’altri prono, altri in fianco, altri supino
+				Veduto havea nel sonno esser sepolto.
+				Entrò in quel bosco, che’l cipresso, e ’l pino,
+				Et altri arbori fanno ombroso, e folto,
+				Tanto, che ’l trasse il piacer, che n’havea,
+				Dov’era ignuda la silvestre Dea.
+
+				Come son d’Atteon le Ninfe accorte,
+				Ch’ in lor tien gli occhi stupidi, et intenti,
+				E veggon, ch’egli le ha già ignude scorte,
+				Con muti, e rotti gemiti, e lamenti
+				Batton le mani, e ’l sen, non però forte,
+				Per c’han vergogna; e misere, e dolenti
+				Le parti ascondon, che natura asconde
+				Dentro а le trasparenti, e limpide onde.
+
+				Confuse tutte cercan far coperchio,
+				Ch’egli ignuda la Dea non vegga, e note,
+				E le fan mormorando intorno un cerchio,
+				E lei coprono, e lor più che si puote.
+				Ma il capo lor sovrastа di soverchio,
+				Ne può la Dea celar le rosse gote,
+				Le gote più, che mai tinte, et accese,
+				Per la troppa vergogna, che la prese.
+
+				Come si tinge una nube nel cielo,
+				Che da l’averso Sol venga percossa,
+				Come al tor del notturno ombroso velo
+				La parte Oriental diventa rossa:
+				Tal la sorella del signor di Delo
+				Si tinge in viso, e da grand’ira mossa
+				Si duol, ch’in man non ha gli strali, e l’arco,
+				Per levarsi quel biasmo, e quello incarco.
+
+				Subito volta à lui la bassa fronte,
+				E non havendo altre arme da valerse
+				Prese con ambe man l’acque del fonte,
+				E ’l miser con quell’acque ultrici asperse.
+				Hor voglio, se potrai, che tu racconte,
+				Come Diana ignuda si scoperse.
+				Questo gli disse la sdegnata Dea,
+				Che fu indicio al gran mal, c’haver dovea.
+
+				Vede intanto l’irata cacciatrice,
+				Ch’а venir la vendetta non soggiorna,
+				Ch’а lui giа crescon sopra la cervice,
+				Di cervo а poco а poco un par di corna.
+				Il naso entra nel viso, e la narice
+				Resta aperta più sotto, e ’l mento torna
+				Dentro in se stesso, e in modo vi sì serra,
+				Che la bocca vien muso, e guarda in terra.
+
+				Quello aspetto sì vago, e sì giocondo,
+				D’animal brutto nova forma prende,
+				S’allunga il collo, e dove egli era tondo,
+				Diventa piatto, e per lo taglio pende.
+				Se di peli ei fu già purgato, e mondo,
+				Hor novo pel tutto macchiato il rende.
+				Da quattro piè quel corpo hor vien sospeso,
+				Che già dava а due piè soverchio peso.
+
+				Quel subito timor, quella paura,
+				Che suol ne i cervi stare, а lui s’aggiunge,
+				E vedendo ogni Ninfa già sicura,
+				Che forte il grida, e minaciando il punge,
+				Dove la selva è più frondosa, e scura,
+				Fuggendo vа da lor, più che può lunge.
+				Si marviglia ei, che non sа l’ intero
+				De l’esser suo, di correr sì leggiero.
+
+				Mentre il paese via correndo sgombra,
+				Dal corso un’acqua limpida l’arresta,
+				Ma come scorge ne la sua nova ombra,
+				Le nove corna, e la cangiata testa,
+				Si tira adietro attonito, e s’adombra,
+				E sì questo l’affligge, ange, e molesta,
+				Che vi torna più volte, e vi si specchia,
+				E non può ritrovar l’ombra sua vecchia.
+
+				Mentre il meschin, misero me dir vole,
+				Queste son ombre vere, ò pur son finte?
+				Trova, che più non può formar parole
+				Di più sillabe unite, over distinte.
+				Gemere è ’l suo parlar, come far sole
+				Il cervo, e le novelle luci vinte
+				Dal duolo interior, stillan di fuore
+				Per lo volto non suo novo liquore.
+
+				L’antica mente sol di lui riserba,
+				Hor che farа l’afflitto trasformato ?
+				Rivedrà la sua regia alta, e superba,
+				Tra suoi regij parenti in quello stato ? 
+				Ò quivi pascerа le ghiande, e l’herba,
+				Fra mille dubbij, e morti impregionato?
+				Misero lui, ne quel, ne questo agogna,
+				Questo il timor non vuol, quel la vergogna.
+
+				Mentre fra se col non perduto ingegno
+				Trovar pensa al suo mal pur qualche scampo.
+				Fù sentito da i cani, e ne dier segno
+				Col solito latrar Tero, e Melampo.
+				Fа, vinto dal timor, tosto ei disegno
+				D’uscir del bosco in ben’ aperto campo,
+				Che sì leggier si sente esser nel corso,
+				Che non pensa trovar miglior soccorso.
+
+				Pensa forse avanzar tanto nel piano,
+				Che i can debbian di lui perder la vista,
+				E poi salvarsi in Ermo più lontano,
+				Così perdendo il bosco, ò il campo acquista,
+				Ma gli uscirà questo disegno vano,
+				Che già del folto esce una turba, mista
+				Di cani, di cavalli, e cacciatori,
+				Empiendo il ciel di strida, e di romori.
+
+				Acquista il cervo per quella campagna,
+				E mostra haver la gamba più leggiera,
+				I veltri, Turchi, d’ltalia, e di Spagna,
+				Son men discosto а la cacciata fera.
+				Di Corsica i can grossi, e di Bertagna
+				Fan dopo i veltri una più grossa schiera,
+				Son quei, che ’l sentir pria più lungi, e stanchi
+				I bracchi de la Marca, e i livrier Franchi.
+
+				Scorre il veloce cervo, e valli, e monti,
+				E salta fossi, e macchie, e passa via,
+				Per linea retta i can veloci, e pronti
+				Gli corron sempre а traversar la via.
+				Il passar spesso di fossi, e di ponti
+				Tien molto а dietro la cavalleria,
+				Gli equestri cacciator non son sì presso,
+				Perche impedita è lor la via più spesso.
+
+				Colui, che più vicin segue la traccia,
+				Siasi sorte, ò giudicio, ò il destrier buono,
+				Per far sapere à gli altri ov’è la caccia,
+				Dа fiato al corno, e fa sentire il suono.
+				Quei, che non sanno ove voltar la faccia
+				Per la distantia, che infiniti sono,
+				Che ’l vario corso gli ha sparsi d’ intorno,
+				Si drizzan tutti ove gl’ invita il corno.
+
+				Già il cervo preso havea tanto vantaggio,
+				Che non era lontan forse а salvarsi,
+				Ma venne l’ infelice in quel viaggio
+				In due sue gentil’huomini а incontrarsi,
+				C’havean del mezo dì fuggito il raggio
+				In quella parte, ove hora eran comparsi,
+				Che nel cacciar di prima eran perduti
+				Da gli altri, al maggior caldo ivi venuti.
+
+				Hor mentre à riposarsi erano а l’ombra,
+				Su’l mezzo giorno i lassi cavalieri,
+				Quel gran rumor l’orecchie loro ingombra
+				Di can, di cacciatori, e di destrieri,
+				Subito l’uno, e l’altro il bosco sgombra
+				Co i freschi veltri à lassa atti, e leggieri
+				Che si sforzan sentendo gli altri cani
+				A più poter d’uscir lor de le mani.
+
+				Quei veltri con gli orecchi alti, et intenti
+				Dan più scosse hor da questo, hor da quel canto
+				E fan gemendo certi lor lamenti,
+				Con certo flebil suon, che mostran quanto
+				Han voglia d’ ire à insanguinare i denti
+				Ne l’animal, ch’anchora è lungi alquanto,
+				Ma quei cacciator pratichi, et accorti,
+				Per far lassa miglior gli tengon forti.
+
+				Già mai nel volto à l’animal cacciato,
+				Quando incontro ti vien non dei far lassa,
+				Per ch’egli sguinza lo scontro da un lato,
+				E scorrer lascia il cane, e innanzi passa.
+				Il veltro dal grand’ impeto sforzato
+				Non può tenersi, e trasportar si lassa,
+				E la fugace belva acquista molto
+				Prima che possa il can voltarle il volto.
+
+				Hor’ ecco il cervo affaticato, e lasso
+				Con debil corso, e con la lingua fuori,
+				Che giunge al tristo, e sfortunato passo,
+				Dove l’attendon quei due cacciatori.
+				Egli, che gli conosce affrena il passo,
+				E ferma gli occhi in quei suoi servidori,
+				E detto havrebbe (s’havesse potuto)
+				Il Signor vostro io son, datemi aiuto.
+
+				Ma le parole mancano à la mente,
+				E non può esprimer fuor quel che vorria,
+				In vece di parlar gemer si sente
+				Pure ai suoi servi il suo gemito invia,
+				Quei, ch’el veggon fermato, immantinente
+				Gli van di dietro, e i can lascian gir via,
+				Il cervo, che lasciarsi i veltri vede,
+				Affretta più che può, lo stanco piede.
+
+				E per quei luoghi, ov’ egli havea seguito
+				Più volte fiere assai, ò vien seguito esso:
+				Ma già si vede il corso haver fornito
+				Ch’è stanco, e i freschi veltri ha troppo appresso.
+				Ecco nel fianco l’ha Tigri ferito,
+				Licisca in una orecchia il dente ha messo
+				E l’han già inginocchiato al suo dispetto,
+				Stracciando à più poter l’ignoto petto.
+
+				Quivi in tanto arrivar su i lor cortaldi
+				Quei, che lasciaro i can poco lontano,
+				E paion ben volonterosi, e caldi,
+				Che ’l cervo ucciso sia per la lor mano,
+				Giunti no’l toccan già, ma stando saldi
+				Tutti cercan con gli occhi il monte, e ’l piano,
+				E questi, e quegli, Atteon chiama, e grida,
+				Accio ch’Atteon sia, che il cervo uccida.
+
+				Il cervo al nome suo leva la testa,
+				E par, che dica; Io son, dammi soccorso:
+				Ma l’uno, e l’altro can tanto il molesta
+				Ch’а lor si volge, e placar cerca il morso.
+				Questo, e quel cacciator gridar non resta,
+				E far segno al Signor, ch’ affretti il corso,
+				Al lor Signor, che già credon scoprire
+				Fra quei, che di lontan veggon venire.
+
+				Giunge intanto de i can la prima schiera
+				De i presti veltri affaticati, e ingordi
+				Di far sul dorso а la cacciata fera
+				I musi loro insanguinati, e lordi.
+				Ei, che non ha la sua favella vera,
+				Gemendo prega i can spietati, e sordi,
+				E inginocchiato à lor si raccomanda,
+				Volgendo il volto à questa, e à quella banda.
+
+				Questo, e quel di quei due diventa roco,
+				E si duol, che ’l Signor non è presente,
+				Ne può gustar di quel piacere un poco,
+				Di sì degno spettacolo niente.
+				Ma il miser, che non è fuor di quel loco,
+				Ne vorrebbe del tutto esser absente,
+				Che vede esser per lui spettacol tale,
+				Ch’altri gusta il piacere, ei sente il male.
+
+				E tanto più, ch’ogni altro cane è giunto,
+				E par, che mordan tutti quanti а prova.
+				Ne più si vede nel suo corpo un punto,
+				Da poter darvi una ferita nova.
+				Così Atteone al fin steso, e defunto
+				Da i cacciator, che giungono, si trova.
+				E così vendicata esser si dice
+				La Dea contra quel giovane infelice.
+
+				Per questo in gran romore il mondo venne
+				Per la gran crudeltà, ch’ usò Diana.
+				E la parte maggior conchiuse, e tenne,
+				Che fu troppo crudele, et inhumana.
+				Non mancò già chi ’l contrario sostenne
+				Che per servarsi et incorrotta, e sana
+				La fama d’esser vergine, e sincera,
+				Doveva in quel castigo esser severa.
+
+			</p>
+		</body>
+	</text>
+</TEI>

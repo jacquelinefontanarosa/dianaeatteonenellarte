@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xml:id="collezionedianaatteone" xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite" xmlns:vra="http://www.vraweb.org/vracore4.htm">
+	<author xml:id="JGF">
+		<object n="1">
+			<cdwalite:recordType>Il mito di Diana e Atteone nell'arte</cdwalite:recordType>
+			<dc:title>Storie di Diana e Atteone</dc:title>
+			<dcterms:alternative>Saletta di Diana e Atteone</dcterms:alternative>
+			<dcterms:alternative>Stufetta di Diana e Atteone</dcterms:alternative>
+			<cdwalite:title>Storie di Diana e Atteone</cdwalite:title>
+			<dc:creator>Mazzola, Francesco (Parmigianino)
+				<data>1503-1540</data>
+			</dc:creator>
+			<cdwalite:vitalDatesCreator>1503-1540</cdwalite:vitalDatesCreator>
+			<cdwalite:nameCreator>Mazzola, Francesco (Parmigianino)</cdwalite:nameCreator>
+			<cdwalite:roleCreator>Pittore</cdwalite:roleCreator>
+			<cdwalite:nationalityCreator>Italiana</cdwalite:nationalityCreator>
+			<cdwalite:genderCreator>Maschile</cdwalite:genderCreator>
+			<dc:date>1522-1524</dc:date>
+			<dcterms:created>1522-1524</dcterms:created>
+			<cdwalite:displayCreationDate>1522-1524</cdwalite:displayCreationDate>
+			<cdwalite:earliestDate>1522</cdwalite:earliestDate>
+			<cdwalite:latestDate>1524</cdwalite:latestDate>
+			<vra:work>
+				<vra:agent>
+					<name>Sanvitale, Galeazzo e Sanvitale Gonzaga, Paola</name><role>Committenti</role>
+					<vra:date type="commission">1522-1524</vra:date>
+				</vra:agent>
+			</vra:work>
+			<dc:identifier>0800212347</dc:identifier>
+			<dc:source>https://www.catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0800212347</dc:source>
+			<dc:subject>Pittura murale</dc:subject>
+			<dc:subject>Manierismo</dc:subject>
+			<cdwalite:style>Manierismo</cdwalite:style>
+			<dc:description>Affresco delle vicende raccontate dal mito di Diana e Atteone, eseguito dal Parmigianino in una saletta della Rocca Sanvitale a Fontanellato</dc:description>
+			<cdwalite:subjectTerm>Diana, Atteone, ninfe, cacciatori, cani, putti, Cerere</cdwalite:subjectTerm>
+			<dcterms:isVersionOf>Mito di Diana e Atteone</dcterms:isVersionOf>
+			<cdwalite:objectWorkType>Affresco</cdwalite:objectWorkType>
+			<dc:type>Affresco</dc:type>
+			<dc:type>Bene immobile</dc:type>
+			<dc:format>4,35 x 3,90 x 3,50 metri</dc:format>
+			<cdwalite:displayMeasurements>4,35 x 3,90 x 3,50 metri</cdwalite:displayMeasurements>
+			<dcterms:medium>Muro, intonaco con tecnica dell'affresco, integrato da estese finiture a secco</dcterms:medium>
+			<dcterms:modified>
+				<data>1963-1967</data>
+				<restauratore>Pasqui</restauratore>
+			</dcterms:modified>    
+			<dcterms:modified>
+				<data>1997-1998</data>
+				<restauratore>Fabrizio Bandini, Opificio delle Pietre Dure di Firenze</restauratore>
+			</dcterms:modified>
+			<dcterms:provenance>Famiglia Sanvitale, Amministrazione comunale di Fontanellato (dal 1948)</dcterms:provenance>
+			<dcterms:publisher>Amministrazione comunale di Fontanellato</dcterms:publisher>
+			<cdwalite:locationName type="creationLocation">Rocca Sanvitale, Fontanellato (PR)</cdwalite:locationName>
+			<cdwalite:locationName type="currentLocation">Rocca Sanvitale, Fontanellato (PR)</cdwalite:locationName>
+			<dc:coverage>Rocca Sanvitale, Fontanellato (PR)</dc:coverage>
+			<dcterms:isPartOf>Rocca Sanvitale</dcterms:isPartOf>
+			<dcterms:spatial>Italia, Emilia Romagna, PR, Fontanellato, Piazza Giacomo Matteotti 1</dcterms:spatial>
+			<dc:language>Italiano</dc:language>
+			<dc:rights>Proprietà Ente pubblico territoriale</dc:rights>
+			<dcterms:rightsHolder>Soprintendenza per i Beni Storici Artistici ed Etnoantropologici per le province di Parma e Piacenza</dcterms:rightsHolder>
+		</object>
+	</author>
+</library>
