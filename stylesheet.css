@@ -1,0 +1,81 @@
+.background-dianaatteone {
+	background-image: url("immagini/disegnodianaatteone.jpg");
+	background-attachment: fixed; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+}
+
+
+.navbar-brand {
+	font-family: 'Otomanopee One', sans-serif;
+}
+
+
+
+
+#navbar a:link, a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+.torna a:link, a:visited {
+	text-decoration: none;
+	color: #a9dbdb;
+}
+
+.torna a:hover, a:active{
+	text-decoration: underline;
+	color: darkslategray;
+}
+
+.nav-item a{
+	text-decoration: none;
+	color: black;
+}
+
+#myTab .nav-item a:link, a:visited {
+	color: black;
+}
+
+.tab-pane  {
+	color: darkslategray;
+}
+
+
+a:link, a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+.dropdown-menu {
+	background-color: #a9dbdb;
+}
+
+.breadcrumb {
+	background-color: #a9dbdb;
+}
+
+.breadcrumb a:link, a:visited {
+	color: white;
+}
+
+.page-item a:link, a:visited {
+	margin-top: 10px;
+	color: white;
+	background-color: #009999;
+}
+
+.list-group-item {
+	width: 100%;
+	background-color: #a9dbdb;
+}
+
+
+.card-text a:link, a:visited {
+	color: 
+}
+
+
+
