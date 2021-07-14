@@ -61,7 +61,11 @@ a:link, a:visited {
 	color: white;
 }
 
-
+.page-item a:link, a:visited {
+	margin-top: 10px;
+	color: white;
+	background-color: #009999;
+}
 
 .list-group-item {
 	width: 100%;
